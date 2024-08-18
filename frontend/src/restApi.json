@@ -5,19 +5,19 @@
                 "id": 1,
                 "image": "./quality_food.svg",
                 "title": "QUALITY FOOD",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "Every bite is a celebration of flavor, freshness, and the joy of good food shared with good company." 
             },
             {
                 "id": 2,
                 "image": "./super_taste.svg",
                 "title": "SUPER TASTE",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+                "description": "A super taste that you'll savor with every bite. From our signature dishes to our seasonal specials." 
             },
             {
                 "id": 3,
                 "image": "./fast_delivery.svg",
                 "title": "FAST DELIVERY",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "Experience the convenience of fast delivery and enjoy the flavors you love, whenever and wherever you want them." 
             }
         ],
         "dishes": [
@@ -48,7 +48,7 @@
             {
                 "id": 5,
                 "image": "./lunch1.png",
-                "title": "BEEF BURGER MEAL",
+                "title": "VEGBURGER MEAL",
                 "category": "Lunch"
             },
             {
@@ -73,26 +73,26 @@
         "team": [
             {
                 "id": 1,
-                "image": "./team_member_1.png",
-                "name": "JOHNATHAN TYLER",
+                "image": "./team_member_3.png",
+                "name": "Sarthak Verma",
                 "designation": "Founder & Head Chef"
             },
             {
                 "id": 2,
-                "image": "./team_member_2.png",
-                "name": "WADE WARREN",
+                "image": "./chef.png",
+                "name": "Hemani",
                 "designation": "Sous Chef"
             },
             {
                 "id": 3,
-                "image": "./team_member_3.png",
-                "name": "JHON DOE",
+                "image": "./team_member_1.png",
+                "name": "Shashank",
                 "designation": "Fast Food Chef"
             },
             {
                 "id": 4,
                 "image": "./team_member_4.png",
-                "name": "ALEX COAL",
+                "name": "Adarsh Raj Pathak",
                 "designation": "Senior Chef"
             }
         ],

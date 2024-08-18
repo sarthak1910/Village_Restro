@@ -13,13 +13,14 @@ const About = () => {
               <p>The only thing we're serious about is food.</p>
             </div>
             <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+              Welcome to Village_Restro, a cozy retreat nestled in the heart of
+              Siddharth Nagar. Here, we believe in the simple joys of life: good
+              food, great company, and the charm of a warm, welcoming
+              atmosphere.Our journey began with a passion for authentic,
+              home-cooked meals that celebrate the rich culinary traditions of
+              our village. Each dish we serve is crafted with love, using fresh,
+              locally-sourced ingredients that reflect the vibrant flavors and
+              time-honored recipes passed down through generations.
             </p>
             <Link to={"/"}>
               Explore Menu{" "}

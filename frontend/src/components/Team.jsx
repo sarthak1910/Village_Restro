@@ -7,9 +7,7 @@ const Team = () => {
         <div className="heading_section">
           <h1 className="heading">OUR TEAM</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-            fugit dicta, ipsum impedit quam laboriosam quas doloremque quia
-            perferendis laborum.
+          At Village_Restro, our success is built on the dedication and passion of our incredible team. Each member plays a vital role in creating the warm, welcoming atmosphere and delicious dishes that make our restaurant special.
           </p>
         </div>
         <div className="team_container">
