@@ -10,7 +10,7 @@ dotenv.config();
 
 app.use(
   cors({
-    origin: ["http://localhost:5173", "https://village-restro.onrender.com/"], // Specify your frontend URL here
+    origin: ["http://localhost:5173", "https://village-restro.onrender.com"], // Specify your frontend URL here
     methods: ["GET", "POST", "PUT", "DELETE"], // Include all methods you need
     credentials: true,
   })
